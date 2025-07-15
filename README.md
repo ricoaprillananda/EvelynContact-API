@@ -45,13 +45,13 @@ json
 
 1. Clone the repo
 
-``bash
+``` bash
 git clone https://github.com/ricoaprillananda/EvelynContact-API.git
 cd EvelynContact-API
 
 2. Install dependencies
 
-``bash
+``` bash
 npm install
 
 3. Add .env file
@@ -61,7 +61,7 @@ MONGO_URI=your-mongodb-uri-here
 
 4. Run the server
    
-``bash
+``` bash
 npm run dev
 
 ---
