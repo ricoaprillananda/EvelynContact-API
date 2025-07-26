@@ -24,8 +24,6 @@ Because even an API should be capable of hearing you out. 🪽
 - Clean, modular structure (MVC)
 - Powered by intention 🖤
 
-```
-
 ---
 
 
