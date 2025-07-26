@@ -37,6 +37,8 @@ Because even an API should be capable of hearing you out. 🪽
 ● dotenv
 ● Postman (for testing)
 
+---
+
 
 ## Preview Architecture
 
