@@ -12,7 +12,7 @@ Because even an API should be capable of hearing you out. 🪽
 - POST-only endpoint: /api/contact
 - Accepts JSON payload:
   
-json
+``` json
   {
     "name": "Your Name",
     "email": "your@email.com",
@@ -23,6 +23,8 @@ json
 - Input validation
 - Clean, modular structure (MVC)
 - Powered by intention 🖤
+
+```
 
 ---
 
@@ -49,24 +51,33 @@ json
 git clone https://github.com/ricoaprillananda/EvelynContact-API.git
 cd EvelynContact-API
 
+```
+
 2. Install dependencies
 
 ``` bash
 npm install
+
+```
 
 3. Add .env file
    
 PORT=5000
 MONGO_URI=your-mongodb-uri-here
 
+
 4. Run the server
    
 ``` bash
 npm run dev
 
+```
+
 ---
 
 ## API Testing (via Postman)
+
+```
 
 Method: POST
 
@@ -81,6 +92,8 @@ Body (json):
   "email": "rico@evelynlove.com",
   "message": "EvelynContact is alive 💗"
 }
+
+```
 
 
 ## Philosophy
