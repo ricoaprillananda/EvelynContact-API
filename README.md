@@ -19,6 +19,8 @@ Because even an API should be capable of hearing you out. 🪽
     "message": "Your message"
   }
 
+``` 
+
 - Saves messages to MongoDB
 - Input validation
 - Clean, modular structure (MVC)
