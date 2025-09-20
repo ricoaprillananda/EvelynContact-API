@@ -31,11 +31,13 @@ Because even an API should be capable of hearing you out. 🪽
 
 ## Tech Stack
 
+```
 ● Node.js
 ● Express.js
 ● MongoDB (via Mongoose)
 ● dotenv
 ● Postman (for testing)
+```
 
 ---
 
